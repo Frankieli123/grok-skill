@@ -1,0 +1,9 @@
+{
+  "base_url": "https://grok.lvli.de",
+  "api_key": "asd3865373",
+  "model": "grok-4.1-thinking",
+  "timeout_seconds": 120,
+  "extra_body": {},
+  "extra_headers": {}
+}
+
